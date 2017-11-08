@@ -35,6 +35,8 @@ public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
+	//rpueba para git no hacer caso a este comentario
+	
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
